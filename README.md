@@ -87,7 +87,7 @@ Where <user> is the user target and <api_key> is your OpenAI API key.
     If you would like to contribute to this project, feel free to open a pull request with your changes.
 
 ## Authors
-    José Henrique da Silva Siqueira
+    Dominik Gorski
 
 ## License
    This project is licensed under the [MIT License](/LICENSE).
